@@ -1,0 +1,6 @@
+[submodule "pin_hic"]
+	path = pin_hic
+	url = https://github.com/dfguan/pin_hic.git
+[submodule "satool"]
+	path = satool
+	url = https://github.com/dfguan/satool.git
